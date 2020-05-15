@@ -1,0 +1,5 @@
+Meie äpp, QRify võimaldab kaamerga pildistada ning pildi QR koodiks muuta. (vajutades generate qr code nuppule)
+Skanneeritud pildile saab ka juurde lisada teksti, URL-i, E-maili ning phc.
+Valmistatud QR-koodi ning teksti saab jagada läbi share nuppu
+Juurde lisatud teksti ja QR koodi saab salvestada ka arhiivi tuleviku kasutuseks(kasutades save nuppu)
+Arhiveeritud koodi annab taas avada ning jagada või siis selle küljes olevat teksti netist otsida(kasutades google.com)
